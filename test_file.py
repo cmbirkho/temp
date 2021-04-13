@@ -12,3 +12,6 @@ class Math:
 
     def multiply(self):
         return self.x * self.y
+    
+    def divide(self):
+        return self.x/self.y
