@@ -8,6 +8,7 @@ class Math:
         return self.x + self.y
 
     def subtract(self):
+        print("You are subtracting")
         return self.x - self.y
 
     def multiply(self):
