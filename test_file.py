@@ -9,3 +9,6 @@ class Math:
 
     def subtract(self):
         return self.x - self.y
+
+    def multiply(self):
+        return self.x * self.y
